@@ -3,6 +3,7 @@
 In life, I am :
 - a French 🥐 16yo girl ;
 - a COD & Rainbow six player 🔫 ;
+- currently working on my BAC project 🎓 ;
 - and way more...
 
 I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
