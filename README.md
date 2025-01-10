@@ -1,4 +1,4 @@
-# Hello, I'm [Asuna Cracotte™](https://discord.com/users/1072121997942861824) 💅
+# Hello, I'm ✨[Asuna Cracotte™](https://discord.com/users/1072121997942861824)✨
 
 In life, I am :
 - a French 🥐 16yo girl ;
