@@ -26,6 +26,6 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
   </a>
   
 ### My GitHub stats:
-![Lux_'s GitHub followers](https://img.shields.io/github/followers/Asunacracotteecole)
-![Lux_'s GitHub stars](https://img.shields.io/github/stars/Asunacracotteecole)
-![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/Asunacracotteecole)
+![Lux_'s GitHub followers](https://img.shields.io/github/followers/AsuCracotte)
+![Lux_'s GitHub stars](https://img.shields.io/github/stars/AsuCracotte)
+![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/AsuCracotte)
