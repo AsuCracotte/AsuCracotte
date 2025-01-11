@@ -28,7 +28,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 </div>
   <p align="center">
   <a href="https://github.com/Luxinenglish">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxinenglish&&theme=tokyonight" alt="Luxinenglish" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxinenglish&&theme=tokyonight" alt="AsuCracotte" />
   </a>
 </p>
   
