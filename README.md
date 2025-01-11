@@ -22,8 +22,8 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 <div align="center">
   <a href="https://github.com/Asunacracotteecole">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asunacracotteecole&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Asunacracotteecole"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asunacracotteecole&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Asunacracotteecole"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsuCracottee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Asunacracotteecole"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsuCracotte&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Asunacracotteecole"/>
   </a>
   
 ### My GitHub stats:
