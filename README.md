@@ -17,7 +17,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 <a title="Asuna's Youtube profile" href="https://www.youtube.com/@asunacracotte"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 
 ### Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1072121997942861824?theme=dark&showDisplayName=true&hideActivity=true&hideProfile=false&hideStatus=false&hideDiscrim=false)](https://discord.com/users/1072121997942861824)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1072121997942861824?theme=dark&showDisplayName=true&hideActivity=false&hideProfile=false&hideStatus=false&hideDiscrim=false)](https://discord.com/users/1072121997942861824)
 
 ------
 
