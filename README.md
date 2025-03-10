@@ -1,12 +1,13 @@
 # Hello, I'm ✨[Asuna Cracotte™](https://discord.com/users/1072121997942861824)✨
 
-In life, I am :
-- a French 🥐 16yo girl ;
-- a COD & Rainbow six player 🔫 ;
-- currently working on my BAC project 🎓 ;
-- and way more...
+In life, I'm :
+- A French 🥐 16yo girl ;
+- A COD & Rainbow six player 🔫 ;
+- Code beginner 💻 ;
+- Currently working on my BAC project 🎓 ;
+- And way more...
 
-I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
+I'm also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 -----
 
