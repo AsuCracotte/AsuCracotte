@@ -26,14 +26,7 @@ I'm also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsuCracotte&bg_color=291b3e&color=ff6bea&line=542a5e&point=ec5dcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <a href="https://github.com/Asunacracotteecole">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsuCracotte&show_icons=true&locale=en&layout=compact&theme=jolly" alt="AsuCracotte"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AsuCracotte&show_icons=true&locale=en&layout=compact&theme=jolly" alt="AsuCracotte"/>
-  </a>
-</div>
-
 ### My GitHub stats:
-![Lux_'s GitHub followers](https://img.shields.io/github/followers/AsuCracotte)
-![Lux_'s GitHub stars](https://img.shields.io/github/stars/AsuCracotte)
-![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/AsuCracotte)
+![Asuna_'s GitHub followers](https://img.shields.io/github/followers/AsuCracotte)
+![Asuna_'s GitHub stars](https://img.shields.io/github/stars/AsuCracotte)
+![Asuna_'s GitHub sponsors](https://img.shields.io/github/sponsors/AsuCracotte)
