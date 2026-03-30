@@ -1,7 +1,7 @@
 # Hello, I'm ✨[Asuna Cracotte™](https://discord.com/users/1072121997942861824)✨
 
 In life, I'm :
-- A French 🥐 17yo girl ;
+- A French 🥐 18yo girl ;
 - A COD & Rainbow six player 🔫 ;
 - Code beginner 💻 ;
 - Currently working on my BAC project 🎓 ;
