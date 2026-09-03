@@ -7,7 +7,7 @@ In life, I'm :
 - Currently working on my BAC project 🎓 ;
 - And way more...
 
-I'm also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
+I'm also an [Epitech](https://www.epitech.eu) student.
 
 -----
 
@@ -17,11 +17,16 @@ I'm also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 <a title="Asuna's Twitch profile" href="https://www.twitch.tv/asuna_cracotte_"><img height="32" width="32" src="https://cdn.simpleicons.org/twitch" style="width:40px" /></a>
 <a title="Asuna's Youtube profile" href="https://www.youtube.com/@asunacracotte"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 
+#### Discord :
+[![Discord Presence](https://lanyard.cnrad.dev/api/1072121997942861824?idleMessage=Sleeping&theme=dark&showDisplayName=true&bg=ffd0ea)](https://discord.com/users/1072121997942861824)
+
 ------
 
 ### Activity:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsuCracotte&bg_color=291b3e&color=ff6bea&line=542a5e&point=ec5dcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsuCracotte&theme=sakura-x&date_format=j%20M%5B%20Y%5D&background=FFD0EA&border=7A6370&stroke=8940EB&ring=8940EB&fire=EB16D8&currStreakNum=411E6F&sideNums=1818EB&currStreakLabel=EB16D8&sideLabels=4350EB&dates=000000&excludeDaysLabel=7A1DEB)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AsuCracotte&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=AsuCracotte&langs_count=4)
 
 ### My GitHub stats:
 ![Asuna_'s GitHub followers](https://img.shields.io/github/followers/AsuCracotte)
