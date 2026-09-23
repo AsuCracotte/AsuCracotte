@@ -4,7 +4,8 @@ In life, I'm :
 - A French 🥐 18yo girl ;
 - A COD & Rainbow six player 🔫 ;
 - Code beginner 💻 ;
-- Currently working on my BAC project 🎓 ;
+- Future cybersecurity expert 🛡️ ;
+- Currently working on my bachelor project 🎓 ;
 - And way more...
 
 I'm also an [Epitech](https://www.epitech.eu) student.
